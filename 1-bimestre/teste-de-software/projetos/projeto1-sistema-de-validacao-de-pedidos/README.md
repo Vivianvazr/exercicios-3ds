@@ -62,8 +62,8 @@ Exemplo de pedido válido:
 ```jsx
 {
 	cliente: "Carlos",
-	total: 150,
-	itens: ["Produto A", "Produto B"]
+		total: 150,
+			itens: ["Produto A", "Produto B"]
 }
 ```
 
